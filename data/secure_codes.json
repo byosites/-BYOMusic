@@ -7,6 +7,7 @@
     "price": 5,
     "created": 1794498963507,
     "expires": 1794499563507,
-    "used": false
+    "used": true,
+    "usedAt": 1794499012282
   }
 ]
