@@ -26,7 +26,16 @@
     "ratings": {
       "v1ed4qQrHeWde5jWMoMSZmIq4623": 5
     },
-    "comments": [],
+    "comments": [
+      {
+        "uid": "v1ed4qQrHeWde5jWMoMSZmIq4623",
+        "user": "Yami",
+        "userName": "Yami",
+        "text": "Love it",
+        "createdAt": 1794499528371,
+        "time": "11/12/2026, 6:05:28 PM"
+      }
+    ],
     "suspended": false,
     "referredBy": "",
     "createdAt": 1794498770805,
