@@ -17,5 +17,24 @@
     "suspended": false,
     "referredBy": "",
     "createdAt": 1794406644862
+  },
+  {
+    "id": "artist_1794497828178",
+    "name": "Yani",
+    "bio": "King of hiphop",
+    "pass": "000000",
+    "approvalCode": "BYO-6VVIDI",
+    "refCode": "BYO-YANI-VIDI",
+    "wa": "",
+    "loc": "Hs",
+    "genre": "Hiphop",
+    "fb": "",
+    "ig": "",
+    "yt": "",
+    "tik": "",
+    "photo": "music/artists/1794497781450_20250926_145855_2.jpg",
+    "suspended": false,
+    "referredBy": "",
+    "createdAt": 1794497828179
   }
 ]
