@@ -19,8 +19,10 @@
     "img": "music/covers/song_1794498743920_ygj1a_Screenshot_20260927_121702_MX_Player.jpg",
     "audioUrl": "music/songs/song_1794498743920_ygj1a_Ice_Spice_-_Name_of_Love__Official_Music_Video___48k_.mp3",
     "cover": "music/covers/song_1794498743920_ygj1a_Screenshot_20260927_121702_MX_Player.jpg",
-    "likes": 0,
-    "likedBy": [],
+    "likes": 1,
+    "likedBy": [
+      "v1ed4qQrHeWde5jWMoMSZmIq4623"
+    ],
     "ratings": {},
     "comments": [],
     "suspended": false,
