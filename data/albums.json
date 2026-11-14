@@ -1,15 +1,1 @@
-[
-  {
-    "id": "album-001",
-    "title": "Nkulumane Nights",
-    "artist": "Yani",
-    "year": "2026",
-    "cover": "music/albums/yani-nkulumane.jpg",
-    "description": "Debut album from Yani",
-    "price": "$5",
-    "songIds": [
-      "yani-sad"
-    ],
-    "hidden": false
-  }
-]
+[]
