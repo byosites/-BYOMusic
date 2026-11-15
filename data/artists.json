@@ -14,7 +14,7 @@
     "yt": "",
     "tik": "",
     "photo": "music/artists/1794406632494_IMG-20251004-WA0006_3.jpg",
-    "suspended": false,
+    "suspended": true,
     "referredBy": "",
     "createdAt": 1794406644862
   },
@@ -33,7 +33,7 @@
     "yt": "",
     "tik": "",
     "photo": "music/artists/1794497781450_20250926_145855_2.jpg",
-    "suspended": false,
+    "suspended": true,
     "referredBy": "",
     "createdAt": 1794497828179
   }
