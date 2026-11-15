@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "id": "song_1794743284470_bo6bq",
+    "title": "Ghh",
+    "artist": "Yamisto",
+    "genre": "Amapiano",
+    "releaseDate": "",
+    "bio": "",
+    "lyrics": "",
+    "credits": "",
+    "composer": "",
+    "isrc": "",
+    "explicit": "no",
+    "paid": false,
+    "sell": false,
+    "featured": false,
+    "price": 0,
+    "audio": "music/songs/song_1794743284470_bo6bq_APPLICATION_FOR.docx",
+    "img": "music/covers/song_1794743284470_bo6bq_APPLICATION_FOR.docx",
+    "audioUrl": "music/songs/song_1794743284470_bo6bq_APPLICATION_FOR.docx",
+    "cover": "music/covers/song_1794743284470_bo6bq_APPLICATION_FOR.docx",
+    "suspended": false,
+    "referredBy": "",
+    "createdAt": 1794743290027,
+    "compressed": false,
+    "origSize": 8629,
+    "finalSize": 8629
+  }
+]
