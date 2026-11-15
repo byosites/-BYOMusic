@@ -2,5 +2,14 @@
   "adsenseId": "ca-pub-7880131696089557",
   "bottomAdRemoved": true,
   "version": "9.3",
-  "shopAds": []
+  "shopAds": [
+    {
+      "name": "Mampala",
+      "image": "Https://www.mampala.com",
+      "link": "",
+      "price": 5,
+      "expires": 1795339592750,
+      "createdAt": 1794734792750
+    }
+  ]
 }
